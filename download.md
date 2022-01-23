@@ -36,7 +36,11 @@ You can install Exaile on OSX via homebrew. See [homebrew-exaile](https://github
 
 ### Linux packages
 
+<!--
 The Exaile team does not currently provide supported packages (rpm, deb, etc) for any Linux distributions.  However most distributions include Exaile in their repositories.
+-->
+Most rpm and source based distributions include Exaile in their repositories. 
+For Ubuntu the exaile developers provide a PPA.  Just follow the instructions appropriate for your version on [its launchpad page.](https://launchpad.net/~exaile-devel/+archive/ppa)
 
 ### Requirements
 

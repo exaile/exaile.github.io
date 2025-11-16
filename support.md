@@ -19,3 +19,7 @@ We run mailing lists for various purposes.
 
 We used to maintain the #exaile channel on freenode, but have abandoned it.
 Please use the other communication avenues.
+
+**TRANSLATING**
+
+Exaile is already translated into several languages. If your language is missing or incomplete join the [Hosted Weblate](https://hosted.weblate.org/engage/exaile/) translation platform to help translate Exaile.
